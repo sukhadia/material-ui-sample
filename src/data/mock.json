@@ -1,0 +1,66 @@
+{
+  
+"SystemNames": ["Trex", "Performer", "ICN Desktop"],
+"AppNames": [
+	"LS", "CML", "BK", "DTS", "SA", "LMS"
+],
+"AppData": {
+  "LMS": {
+    "title": "LMS Utilities Performers Control Console",
+    "cols": [
+      {
+        "key": "utility",
+        "headerName": "Utility"
+      },
+      { "key": "status", "headerName": "Status" },
+      { "key": "description", "headerName": "Description" }
+    ],
+    "rows": [
+      {
+        "utility": "LMS Change-Owner",
+        "status": "Performer is off",
+        "description": "Process the change of ownership requests for the tasks in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      },
+      {
+        "utility": "LMS Delete-Loan",
+        "status": "Performer is off",
+        "description": "Delete the loans in LMS"
+      }
+    ]
+  }
+}}

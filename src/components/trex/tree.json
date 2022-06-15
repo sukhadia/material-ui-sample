@@ -1,0 +1,76 @@
+{
+	"tree": {
+    "title": "TRUIST",
+    "nodes": [
+      {
+        "title": "Constant Credit & Retail Bankcard",
+        "nodes": [
+      {
+        "title": "Retail Constant Credit",
+        "nodes": [
+          {
+            "title": "CC BankPro Approved",
+            "nodes": [
+              {
+                "title": "Research (Q)"
+              },
+              {
+                "title": "Pend (Q)"
+              }
+            ]
+          },
+          {
+            "title": "CC Solicitations",
+            "nodes": []
+          },
+          {
+            "title": "CC Maintenance",
+            "nodes": []
+          },
+          {
+            "title": "CC Signature Validation",
+            "nodes": []
+          }
+        ]
+      },
+      { 
+        "title": "Commercial Constant Credit",
+        "nodes": []
+      },
+      { 
+        "title": "Retail Bankcard",
+        "nodes": []
+      },
+      { 
+        "title": "Quality Audit",
+        "nodes": []
+      },
+      { 
+        "title": "Escalation(Q)"
+      }
+    ]
+    },
+    {
+      "title": "Commercial",
+      "nodes": []
+    },
+    {
+      "title": "Monetary Maintenance",
+      "nodes": []
+    },
+    {
+      "title": "Non-Monetary Maintenance",
+      "nodes": []
+    },
+    {
+      "title": "CC & Retail & Commercial Complete(Q)"
+    },
+    {
+      "title": "Rendezvous Exception(Q)"
+    },
+    {
+      "title": "Background Processes",
+      "nodes": []
+    }
+  ]
+}}
